@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\juseong\desktop\densecut -windows-master\cmcode-master\cmlib\crf\permutohedral.h(92): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+  GrabCutMF_Main.cpp
+  GrabCutMF.cpp
+  DenseCRF.cpp
+  CmGrabSal.cpp
+  코드를 생성하고 있습니다...
+  GrabCutMF.vcxproj -> C:\Users\Juseong\Desktop\densecut -windows-master\mmcheng_densecut\Debug\GrabCutMF.exe
